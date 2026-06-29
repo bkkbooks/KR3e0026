@@ -1,0 +1,140 @@
+canonical_identifier: bkk:krp/KR3e0026/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0026/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒總病論
+  date: '2015-08-24 23:04:50.750029'
+  source:
+    repository: kanripo
+    path: KR3e0026
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0026_000-WYG.yaml, hash: 'sha256:9798d67dcd013e782c7b3a1f81405e4c1afae9721efefa2609a4ba2ae56ff284'}
+  - {seq: 1, filename: KR3e0026_001-WYG.yaml, hash: 'sha256:372899f4a1011f64cb991b786170d2be64d8624404307b67a5bddffc0ed3c9c9'}
+  - {seq: 2, filename: KR3e0026_002-WYG.yaml, hash: 'sha256:05424a564d0caa2d2c01a91f6ac00dbb9d5ed1460210e8bf695f7c19a8e38e7c'}
+  - {seq: 3, filename: KR3e0026_003-WYG.yaml, hash: 'sha256:fab763b2e35b223d204091dc0c605c1de52591990b0199538c171d4589ce2d5d'}
+  - {seq: 4, filename: KR3e0026_004-WYG.yaml, hash: 'sha256:aa2622baf14e647097e6f3705edb9b897bc615976d9ec4dc45b0a79fb5e47fa2'}
+  - {seq: 5, filename: KR3e0026_005-WYG.yaml, hash: 'sha256:d3b750c73af22de3f75c8bce761efd8e18b2ea9c5c604c1cd885239252cc5493'}
+  - {seq: 6, filename: KR3e0026_006-WYG.yaml, hash: 'sha256:1ababfdfd05ce1c52463d8052cf7d69830f27dca60a6cf99f84ba3bddfe3a0d6'}
+  - {seq: 7, filename: KR3e0026_007-WYG.yaml, hash: 'sha256:f66361dde8d882ade68760826faf5d6ddadbce03c99a17c57b8a2ed9bcf93d8b'}
+  - {seq: 8, filename: KR3e0026_008-WYG.yaml, hash: 'sha256:23db78f1f0e62ea750d6e2f717d0f0c7567a2052473f75af13dd3edbb0f44513'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0026_000-WYG.markers.yaml, hash: 'sha256:d47a8b9767d88added7c31ae8e4b8e2d6aaf5ec0cce82f3eef79a9fb0bfe2fef'}
+  - {seq: 1, role: markers, filename: assets/KR3e0026_001-WYG.markers.yaml, hash: 'sha256:64f36360141ac20e816502332e4d012a403ac54cc925a97c427a53f4c2deb37a'}
+  - {seq: 2, role: markers, filename: assets/KR3e0026_002-WYG.markers.yaml, hash: 'sha256:4adc5120146abc0272a91428ef6304e24217ba4c1a8e953a3dd36753d76ab31b'}
+  - {seq: 3, role: markers, filename: assets/KR3e0026_003-WYG.markers.yaml, hash: 'sha256:533bcad102fd55a8285b5b22dc8db871a98e03ac9e01149478bcdbe55b303ce1'}
+  - {seq: 4, role: markers, filename: assets/KR3e0026_004-WYG.markers.yaml, hash: 'sha256:338e80e4e01501b87b05b3a9df181e1fe91da5cfd2bb3217035f9cfa15958b7c'}
+  - {seq: 5, role: markers, filename: assets/KR3e0026_005-WYG.markers.yaml, hash: 'sha256:e5b2e0abefbd68b84b02558bf3d16be71263abf995c6a82c86d9d7cab9f65866'}
+  - {seq: 6, role: markers, filename: assets/KR3e0026_006-WYG.markers.yaml, hash: 'sha256:5739d7b2905670383f1cc0268894160096ed05f60ec111e8d4868ceb377964f2'}
+  - {seq: 7, role: markers, filename: assets/KR3e0026_007-WYG.markers.yaml, hash: 'sha256:84deb2d4ceec753ba1acde3311402af7978afa5ac0e5fcb8b9662254a98e74ec'}
+  - {seq: 8, role: markers, filename: assets/KR3e0026_008-WYG.markers.yaml, hash: 'sha256:3d9c97ce9957968b5268f002f6d0d63d833f21f72dd160632f23f8c264a96f8a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0026_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 576
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0026_WYG_000-4a
+    span:
+    - body
+    - 576
+    - 1148
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0026_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 7866
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0026_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 8514
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3e0026_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 10300
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3e0026_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 4960
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3e0026_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 5667
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3e0026_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 5364
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3e0026_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 852
+  label: 傷寒論音訓
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3e0026_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 1600
+  label: 脩治藥法
+  type: section
+  level: 1
+hash: sha256:b061eb9f269f3e27188e43f42c93b928e13ea556b20166ff166c4f97eb5464e6
